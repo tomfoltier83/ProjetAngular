@@ -1,7 +1,7 @@
 # ProjetAngular
 Crypto-wallet
 
-Application de visualisation des marchés de cryptomonnaies en temps réel avec plusieurs indications (prix, volume d'échange sr 24h glissants, pourcentage de variations, etc ...)
+Application de visualisation des marchés de cryptomonnaies en temps réel avec plusieurs indications (prix, volume d'échange sur 24h glissants, pourcentage de variations, etc ...)
 
 Possibilité de créer un compte ou bien d'utiliser l'utilisateur par défault : mail : test@test.com / mdp : testtest
 
